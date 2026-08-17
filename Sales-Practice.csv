@@ -1,0 +1,11 @@
+OrderID,City,Category,Amount,Quantity
+101,Kathmandu,Electronics,1200,1
+102,Pokhara,Grocery,150,3
+103,Kathmandu,Electronics,800,1
+104,Biratnagar,Grocery,200,4
+105,Pokhara,Electronics,1500,2
+106,Kathmandu,Grocery,100,2
+107,Biratnagar,Electronics,900,1
+108,Pokhara,Grocery,250,5
+109,Kathmandu,Grocery,180,3
+110,Biratnagar,Electronics,1100,2
