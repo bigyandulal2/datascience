@@ -1,0 +1,11 @@
+StudentID,Class,Gender,Subject,Marks
+1,A,M,Math,85
+2,A,F,Math,90
+3,B,M,Math,70
+4,B,F,Math,75
+5,A,F,Science,88
+6,B,M,Science,65
+7,A,M,Science,92
+8,B,F,Science,80
+9,A,M,Math,78
+10,B,F,Science,72
